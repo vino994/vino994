@@ -1,24 +1,94 @@
-# 💫 About Me:
-# Hi, I'm Vinoth 👋  <br><br>💻 **Frontend Developer | MERN Stack Developer in Progress | AI Enthusiast**  <br><br>I’m a passionate **Frontend Developer with 5+ years of professional experience** in building **modern, responsive, and user-friendly web applications**.  <br>Skilled in **React.js, Redux, JavaScript, and UI frameworks**, I specialize in crafting scalable solutions that deliver seamless user experiences.  <br><br>Currently, I’m expanding into **MERN Stack development** (MongoDB, Express.js, React.js, Node.js) and exploring **AI-powered tools** to create smarter, future-ready applications.  <br><br>---<br><br>## 🚀 What I Do<br>- ⚛️ Build dynamic and scalable frontends with **React & Redux**  <br>- 🎨 Develop pixel-perfect UI with **HTML, CSS, Tailwind, Material UI**  <br>- 🔄 Optimize performance with efficient **state management**  <br>- 🌐 Learning **Node.js, Express & MongoDB** for backend development  <br>- 🤖 Integrating **AI tools** into real-world projects  <br><br>---<br><br>## 🎯 Goals for 2025<br>- ✅ Build & deploy **full-stack MERN projects**  <br>- ✅ Contribute to **open-source communities**  <br>- ✅ Develop **AI-powered applications**  <br>- ✅ Collaborate with **clients & teams worldwide**  <br><br>---<br><br>## 🛠️ Tech Stack  <br>![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  <br>![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)  <br>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  <br>![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  <br>![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)  <br>![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  <br>![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  <br>![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)  <br><br>---<br><br>## 📫 Let’s Connect<br>🌐 Portfolio: [My Portfolio](http://vino994.github.io/My_Portfolio/)  <br>💼 LinkedIn: [Vinothkumar Sanjeevi](https://www.linkedin.com/in/vinothkumar-sanjeevi/)  <br>📂 GitHub Projects: Explore my repos below ⬇️  <br><br>---<br>✨ *Open to collaboration, freelance projects, and full-time opportunities in Frontend / MERN Stack Development.*  <br>
+<!-- Banner / Header -->
+<p align="center">
+  <img src="https://i.ibb.co/QM3G3Rn/github-banner.png" alt="Vinoth - Frontend Developer | MERN Learner | AI Enthusiast" />
+</p>
 
+# Hi, I'm Vinoth 👋  
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/vinothkumar.sanjeevi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vinod_sanjeev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vinothkumar-sanjeevi) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/vinodjayasudha) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCwWWQgxPuXPMnBrnRZ1GMiA) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vinodjayasudha@gmail.com) 
+💻 **Frontend Developer | MERN Stack Developer in Progress | AI Enthusiast**  
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vino994&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vino994&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vino994&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+I’m a passionate **Frontend Developer with 5+ years of professional experience** in building **modern, responsive, and user-friendly web applications**.  
+Skilled in **React.js, Redux, JavaScript, and UI frameworks**, I specialize in crafting scalable solutions that deliver seamless user experiences.  
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vino994&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vino994&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Currently, I’m expanding into **MERN Stack development** (MongoDB, Express.js, React.js, Node.js) and exploring **AI-powered tools** to create smarter, future-ready applications.  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vino994&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 What I Do
+- ⚛️ Build dynamic and scalable frontends with **React & Redux**  
+- 🎨 Develop pixel-perfect UI with **HTML, CSS, Tailwind, Material UI**  
+- 🔄 Optimize performance with efficient **state management**  
+- 🌐 Learning **Node.js, Express & MongoDB** for backend development  
+- 🤖 Integrating **AI tools** into real-world projects  
+
+---
+
+## 🎯 Goals for 2025
+- ✅ Build & deploy **full-stack MERN projects**  
+- ✅ Contribute to **open-source communities**  
+- ✅ Develop **AI-powered applications**  
+- ✅ Collaborate with **clients & teams worldwide**  
+
+---
+
+## 🛠️ Tech Stack  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)  
+
+---
+
+## 📌 Featured Projects  
+
+### 🖼️ [My Portfolio](https://vino994.github.io/My_Portfolio/)  
+A personal portfolio website to showcase my **skills, projects, and achievements**.  
+- ⚛️ Built with React & CSS  
+- 📱 Fully responsive  
+- 🌐 Deployed on GitHub Pages  
+
+---
+
+### ✅ [MERN Todo App](https://github.com/vino994/mern-todo) *(Learning Project)*  
+A full-stack **MERN application** to manage tasks efficiently.  
+- 🗄️ MongoDB + Express + Node.js backend  
+- ⚛️ React frontend with Redux  
+- 🚀 CRUD operations + Authentication  
+
+---
+
+### 📚 [Landing Page – TRBook](https://github.com/vino994/trbook-landing-page)  
+A modern, responsive **HTML/CSS/JS landing page**.  
+- 🎨 Designed with responsive layouts  
+- 🔥 Lightweight and fast loading  
+- 🌐 Deployed on GitHub Pages  
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vino994&show_icons=true&theme=radical" alt="Vinoth's GitHub stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vino994&layout=compact&theme=radical" alt="Top Languages" height="180px"/>
+</p>
+
+---
+
+## 🔥 Streak Stats  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vino994&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📫 Let’s Connect
+🌐 Portfolio: [My Portfolio](http://vino994.github.io/My_Portfolio/)  
+💼 LinkedIn: [Vinothkumar Sanjeevi](https://www.linkedin.com/in/vinothkumar-sanjeevi/)  
+📂 GitHub Projects: Explore my repos below ⬇️  
+
+---
+
+✨ *Open to collaboration, freelance projects, and full-time opportunities in Frontend / MERN Stack Development.*  
