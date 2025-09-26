@@ -53,7 +53,7 @@ A personal portfolio website to showcase my **skills, projects, and achievements
 
 ---
 
-### ✅ [MERN Todo App](https://github.com/vino994/mern-todo) *(Learning Project)*  
+### ✅ [MERN Book App](https://vino994.github.io/dhiya-social-app/) *(Learning Project)*  
 A full-stack **MERN application** to manage tasks efficiently.  
 - 🗄️ MongoDB + Express + Node.js backend  
 - ⚛️ React frontend with Redux  
@@ -61,7 +61,7 @@ A full-stack **MERN application** to manage tasks efficiently.
 
 ---
 
-### 📚 [Landing Page – TRBook](https://github.com/vino994/trbook-landing-page)  
+### 📚 [Landing Page – TourBooking](https://vino994.github.io/Html-Css-Landingpage/)  
 A modern, responsive **HTML/CSS/JS landing page**.  
 - 🎨 Designed with responsive layouts  
 - 🔥 Lightweight and fast loading  
